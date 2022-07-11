@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>arispen</title>
+    <link>/</link>
+    <description>Recent content on arispen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projects</title>
+      <link>/projects/</link>
+      <pubDate>Wed, 22 Jun 2022 14:53:32 +0200</pubDate>
+      
+      <guid>/projects/</guid>
+      <description>My current projects:
+Archmage Arispen&amp;rsquo;s Lab (https://www.etsy.com/shop/archmagearispen) </description>
+      <content>&lt;p&gt;My current projects:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Archmage Arispen&amp;rsquo;s Lab (&lt;a href=&#34;https://www.etsy.com/shop/archmagearispen&#34;&gt;https://www.etsy.com/shop/archmagearispen&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Wed, 22 Jun 2022 13:33:50 +0200</pubDate>
+      
+      <guid>/about/</guid>
+      <description>I am a professional software developer since 2013.</description>
+      <content>&lt;p&gt;I am a professional software developer since 2013.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
