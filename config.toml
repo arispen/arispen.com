@@ -15,7 +15,7 @@ paginate = 5
   themeColor = "pink"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 2
+  showMenuItems = 3
 
   # show selector to switch language
   showLanguageSelector = false
@@ -67,7 +67,7 @@ paginate = 5
   [languages.en]
     languageName = "English"
     title = "arispen"
-    subtitle = "A simple, retro theme for Hugo"
+    subtitle = "my homepage"
     owner = ""
     keywords = ""
     copyright = ""
@@ -85,14 +85,10 @@ paginate = 5
 
     [languages.en.menu]
       [[languages.en.menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/about"
+        identifier = "contact"
+        name = "Contact"
+        url = "/contact"
       [[languages.en.menu.main]]
         identifier = "projects"
         name = "Projects"
         url = "/projects"
-      [[languages.en.menu.main]]
-        identifier = "contact"
-        name = "Contact"
-        url = "/contact"
