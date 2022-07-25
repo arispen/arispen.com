@@ -13,10 +13,18 @@
       
       <guid>/projects/</guid>
       <description>My current projects:
-Archmage Arispen&amp;rsquo;s Lab (https://www.etsy.com/shop/archmagearispen) </description>
+Archmage Arispen&amp;rsquo;s Lab (https://www.etsy.com/shop/archmagearispen) Check out my downloadable RPG:
+My upcoming projects:
+Gildia Programistów (https://gildia.edu.pl) </description>
       <content>&lt;p&gt;My current projects:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Archmage Arispen&amp;rsquo;s Lab (&lt;a href=&#34;https://www.etsy.com/shop/archmagearispen&#34;&gt;https://www.etsy.com/shop/archmagearispen&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Check out my downloadable RPG:&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;My upcoming projects:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Gildia Programistów (&lt;a href=&#34;https://gildia.edu.pl&#34;&gt;https://gildia.edu.pl&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
 </content>
     </item>
@@ -27,8 +35,10 @@ Archmage Arispen&amp;rsquo;s Lab (https://www.etsy.com/shop/archmagearispen) </d
       <pubDate>Wed, 22 Jun 2022 13:33:50 +0200</pubDate>
       
       <guid>/about/</guid>
-      <description>I am a professional software developer since 2013.</description>
-      <content>&lt;p&gt;I am a professional software developer since 2013.&lt;/p&gt;
+      <description>My name is Maciej Wróblewski.
+I am a professional software developer since 2013.</description>
+      <content>&lt;p&gt;My name is Maciej Wróblewski.&lt;/p&gt;
+&lt;p&gt;I am a professional software developer since 2013.&lt;/p&gt;
 </content>
     </item>
     

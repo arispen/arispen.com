@@ -3,6 +3,9 @@ languageCode = "en-us"
 theme = "terminal"
 paginate = 5
 
+[markup.goldmark.renderer]
+  unsafe = true
+
 [params]
   # dir name of your main content (default is `content/posts`).
   # the list of set content will show up on your index page (baseurl).
@@ -89,3 +92,7 @@ paginate = 5
         identifier = "projects"
         name = "Projects"
         url = "/projects"
+      [[languages.en.menu.main]]
+        identifier = "contact"
+        name = "Contact"
+        url = "/contact"
