@@ -7,7 +7,8 @@ author: Maciej
 #### Welcome to my homepage :)
 
 
-My name is Maciej Wróblewski.
+My name is Maciej Wróblewski aka arispen
 
 I am a professional software developer since 2013.
 
+Check out my projects
