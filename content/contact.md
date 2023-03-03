@@ -8,6 +8,8 @@ author: Maciej
 Address:
 38-307 Siary 118, Poland
 
-e-mail:
-arispen@gmail.com
+e-mail:  
+arispen at gmail
 
+twitter:  
+[@ArchmageArispen](https://twitter.com/ArchmageArispen)
