@@ -115,6 +115,8 @@ Here's how it looks like in my case:
 
 After running the app, the database will magically appear with the table inside!
 
-## 4. The app is in production (😉)
+## 4. The app is in production (kinda 😉)
+
+Access the app using the url provided in your IDE:
 
 <img width="883" alt="full-stack guest book using one prompt for ChatGPT" src="https://user-images.githubusercontent.com/7100099/222671767-f26bbab3-cfb8-4aef-924c-9659b578139b.png">
