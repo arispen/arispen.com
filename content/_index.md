@@ -11,4 +11,4 @@ My name is Maciej Wróblewski aka arispen
 
 I am a professional software developer since 2013.
 
-Check out my projects
+Check out my [projects](https://arispen.com/projects)
