@@ -1,5 +1,6 @@
 ---
 title: "Create a guestbook with one ChatGPT prompt"
+url: /posts/chatgpt-guestbook
 date: 2023-03-03T09:00:00+00:00
 draft: false
 author: Maciej
