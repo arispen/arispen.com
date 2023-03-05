@@ -6,7 +6,7 @@ draft: false
 author: Maciej
 ---
 
-## How to create a Web 2.0 (😉) full-stack guest book using one ChatGPT prompt
+## How to create a Web 2.0 (😉) full-stack web app using one ChatGPT prompt
 
 Here's the magic prompt: 
 > write php code including html form and bootstrap css stylesheet, 
