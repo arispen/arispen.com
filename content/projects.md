@@ -20,8 +20,5 @@ https://arispen.itch.io/
 Web games I created in the past:  
 https://www.kongregate.com/games/arispen
 
-My programming school:  
-https://gildia.edu.pl
-
 Portal for my village (work in progress):  
-siary.pl
+https://siary.pl
