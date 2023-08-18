@@ -10,6 +10,8 @@ author: Maciej
 My Etsy shop:  
 https://www.etsy.com/shop/archmagearispen
 
+[![Alt text](https://arispen.com/tinny-mini.jpg)](https://arispen.com/tinny-mini.jpg)
+
 My business-card RPG:  
 <iframe frameborder="0" src="https://itch.io/embed/1606336?linkback=true&amp;bg_color=222222&amp;fg_color=eeeeee&amp;link_color=bc1bff&amp;border_color=363636" width="552" height="167"><a href="https://arispen.itch.io/dnbc">Dungeons &amp; Business Cards by Archmage Arispen's Lab</a></iframe>
 
